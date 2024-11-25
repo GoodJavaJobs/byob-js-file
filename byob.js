@@ -7140,6 +7140,7 @@
                         children: _("div", { style: { width: `${t}%` } }),
                       }),
                       _("p", {
+                        className: "convert-cat-byob-discount-progress-text",
                         children: [
                           _("strong", {
                             className: "convert-cat-byob-price-color",
