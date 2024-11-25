@@ -108,6 +108,7 @@
   height: 100%;
   background-color: var(--convert-cat-byob-button-color);
   border-radius: 6px;
+  display: block !important;
 }
 .convert-cat-byob-category-name {
   font-size: 18px;
