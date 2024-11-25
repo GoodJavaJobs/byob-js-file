@@ -66,9 +66,9 @@
 .convert-cat-byob-product-item-add {
   border-color: #000;
   color: #000;
-  border: 2px solid;
+  border: 1px solid;
   background-color: #f4f4f6;
-  font-weight: 700;
+  font-weight: 400;
 }
 .convert-cat-byob-product-item-add:hover {
   background-color: var(--convert-cat-byob-button-color);
